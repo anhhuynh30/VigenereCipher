@@ -4,9 +4,9 @@ Unlike **Caesar Cipher** which was a monoalphabetic substitution cipher, **Vigen
 
 For example, given the *message* as *BARRY IS THE SPY* and the *keyword* as *DOG*, we have the following:
 
-> Message:					B  A  R  R  Y   I  S   T  H  E   S  P  Y
-> Keystring:				D  O  G  D  O   G  D   O  G  D   O  G  D
-> Resulting place value:	4  14 23 20 38  14 21  33 13 7   32 21 27
-> Vigenère Cipher:			E  O  X  U  M   O  V   H  N  H   G  V  B
+Message:				B  A  R  R  Y   I  S   T  H  E   S  P  Y
+Keystring:				D  O  G  D  O   G  D   O  G  D   O  G  D
+Resulting place value:	4  14 23 20 38  14 21  33 13 7   32 21 27
+Vigenère Cipher:		E  O  X  U  M   O  V   H  N  H   G  V  B
 
 
